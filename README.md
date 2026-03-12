@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [Musonda Kennedy]
+**Student ID:** [2022050231]
+**Design Theme:** [my portfolio has a modern and proffessional theme, using a clean layout and a soft blue and dark gray color palette that emphasizes readability and tech expertise. It features responsive design with flexbox and grid layouts, ensuring it looks polished on mobile, tablet, and desktop screens. Interactive elements like buttons, hover effects, and project previews make the site engaging and user ffriendly, highlighting both my skills and personal branding.]
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,7 +139,7 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+[ one challenge I faced was making the portfolio fully responsive, as elements like the navigation bar and project cards did not dissplay correctly on smaller screens. I solved this by using mobile first CSS, flexbox, and grid layouts, along with medea queries at three breakpoints to adjust spacing, font sizes, and element positioning. Another challenge was styling images and buttons consistently, whch I addressed by creating CSS variables for color, fonts, and spacing, ensuring uniform across the site.]
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
